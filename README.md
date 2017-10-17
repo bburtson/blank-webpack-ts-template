@@ -11,7 +11,8 @@ npm install webpack -g
 
 npm install -g typescript
 ```
-To serve       **note** config is already watching changes, edit code and enjoy!
+Serve : localhost:8080
+**note** config is already watching changes, edit code and enjoy!
 ```
 webpack-dev-server
 ```
